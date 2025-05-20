@@ -19,7 +19,7 @@ This project benchmarks the adversarial robustness of two popular architectures 
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/adv_robustness_resnet_vit.git
+git clone https://github.com/moody-taco/ResNet-vs-ViT-Adversarial-Attacks
 cd adv_robustness_resnet_vit
 pip install -r requirements.txt
 ```
